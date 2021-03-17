@@ -1,20 +1,18 @@
-.gorilla {   
-  border: 5px dotted  purple;      
-}         
+.gorilla {
+  border: 5px dotted  purple;
+}
 
 .para1 {
-  color: pink;     
-  font-size: 150%;     
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+  color: pink;
+  font-size: 150%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .background {  
   background-color: blueviolet;
-}  
+}
 
 .pre {  
-  background-color: black;   
+  background-color: black;
 }
-   
-
-  
+ 
